@@ -1,0 +1,5 @@
+﻿  2048.cpp
+C:\Users\user\source\repos\2048\2048\2048.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\2048\2048\2048.cpp(266,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\2048\2048\2048.cpp(273,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  2048.vcxproj -> C:\Users\user\source\repos\2048\Debug\2048.exe
